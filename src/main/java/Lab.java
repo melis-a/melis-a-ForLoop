@@ -47,11 +47,10 @@ public class Lab {
     
     for (int i= start; i < end; i++){
         buildingString += i + " ";
-    //   sum = i + end; 
- //      ++i;
+   
     System.out.print(i);
 }
     return buildingString; 
-        //return buildingString;
+    
     }
 }
